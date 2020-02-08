@@ -61,8 +61,6 @@ df <- read.csv("DATA/Influence of alcohol consumption on anxiety levels.csv", se
 
 
 
-ggplot(data = data_frame, aes(x=Student_Name, y=Total_Calories, group=1)) +
-  geom_line() + geom_point()
 
 
 # Histrogram Example

@@ -42,9 +42,7 @@ df <- read.csv("DATA/Influence of alcohol consumption on anxiety levels.csv", se
 # TASK: Use head method to show top 10 of dataframe
 
 
-
 # TASK: use the STR (structure) method to get info on datatypes
-
 
 # TASK: Use tail method to show last 10 rows of the dataframe
 
@@ -54,9 +52,14 @@ df <- read.csv("DATA/Influence of alcohol consumption on anxiety levels.csv", se
 
 # TASK: Get some basic descriptive statistics using the summary method 
 
+
+
 # TASK: get the median of average number of alcoholic units consumed per week
 
+
 # TASK: plot a line graph
+
+
 
 ggplot(data = data_frame, aes(x=Student_Name, y=Total_Calories, group=1)) +
   geom_line() + geom_point()

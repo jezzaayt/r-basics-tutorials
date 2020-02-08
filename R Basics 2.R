@@ -8,13 +8,15 @@ Australian_animals
 
 aa <- Australian_animals
 
-aa[]
+aa[] 
+# or  - Either of these will call the dataframe 
+aa
 
 #Select by row or rows then column
 aa[1,1]
 aa[5,1]
 aa[6,1]
-aa[1,2] 
+aa[1,2]  # null because there is no second column 
 aa[1:5,1]
 
 

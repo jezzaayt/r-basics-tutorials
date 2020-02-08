@@ -45,6 +45,11 @@ numbers[2]
 numbers[11]
 
 
+#number of rows in a data frame
+NROW(animals)
+
+
+
 #Slicing  / sub setting 
 numbers[-1] # all but first item
 numbers[1:5] # first 5

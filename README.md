@@ -11,3 +11,9 @@ Basics 1 showing lists, sorting, for loop, indexing, appending and slicing
 Basics 2 showing how to import data from a text file and work with the data including removing duplicates from the variable. 
 
 Descriptive statistics showing how to create a dataframe within R, accessing CSV data and creating plots with tasks to do for the partipciants. 
+
+All work has been part of personal project, study or volunteer. 
+
+
+# License
+MIT License. 

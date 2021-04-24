@@ -15,5 +15,3 @@ Descriptive statistics showing how to create a dataframe within R, accessing CSV
 All work has been part of personal project, study or volunteer. 
 
 
-# License
-MIT License. 
